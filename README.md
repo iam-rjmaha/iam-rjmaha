@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | DevOps Enthusiast 
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong background in cloud infrastructure, CI/CD pipelines, and automation. My goal is to streamline processes and improve collaboration between development and operations teams.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong background in AWS cloud infrastructure, CI/CD pipelines, and automation. My goal is to streamline processes and improve collaboration between development and operations teams and improving the ability to deliver the application.
 
 ---
 
